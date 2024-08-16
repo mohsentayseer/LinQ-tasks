@@ -1,0 +1,14 @@
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\bin\Debug\net8.0\LinqDay1.exe
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\bin\Debug\net8.0\LinqDay1.deps.json
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\bin\Debug\net8.0\LinqDay1.runtimeconfig.json
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\bin\Debug\net8.0\LinqDay1.dll
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\bin\Debug\net8.0\LinqDay1.pdb
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.AssemblyInfoInputs.cache
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.AssemblyInfo.cs
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.csproj.CoreCompileInputs.cache
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.dll
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\refint\LinqDay1.dll
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.pdb
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\LinqDay1.genruntimeconfig.cache
+D:\Work\C#\MY Course\FullStackIsmailia2024\Linq\Day1\LinqDay1\LinqDay1\obj\Debug\net8.0\ref\LinqDay1.dll

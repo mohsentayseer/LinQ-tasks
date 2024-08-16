@@ -1,0 +1,14 @@
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\bin\Debug\net8.0\tasks-sol.exe
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\bin\Debug\net8.0\tasks-sol.deps.json
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\bin\Debug\net8.0\tasks-sol.runtimeconfig.json
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\bin\Debug\net8.0\tasks-sol.dll
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\bin\Debug\net8.0\tasks-sol.pdb
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.GeneratedMSBuildEditorConfig.editorconfig
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.AssemblyInfoInputs.cache
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.AssemblyInfo.cs
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.csproj.CoreCompileInputs.cache
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.dll
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\refint\tasks-sol.dll
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.pdb
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\tasks-sol.genruntimeconfig.cache
+D:\ITI\LinQ\Day1\Tasks-Solution\tasks-sol\obj\Debug\net8.0\ref\tasks-sol.dll
